@@ -1,0 +1,30 @@
+{ "name": "promise-wraps",
+  "version": "0.0.1",
+  "description": "A collection of decorators for async functions.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/promise-wraps-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/promise-wraps-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/promise-wraps-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "wraps.js",
+  "scripts": { "test": "tape test/*.test.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.9.0"
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
